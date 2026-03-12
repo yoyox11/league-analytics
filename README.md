@@ -6,7 +6,7 @@ for any Support League of Legends player.
 ⚠️ Designed specifically for Support role players
 - Tracks ranked support performance — filters non-support games automatically
 - Auto-fetch last 15 ranked games via Riot API
-- Normalized stats per 10 minutes (Vision, KP, DPM, Death%)
+- Normalized stats per 10 minutes (KDA, Vision, KP, DPM, Death%)
 - Automatic archiving of match history
 - Win/Loss performance analysis by champion
 - Challenger benchmark comparison with radar chart visualization
