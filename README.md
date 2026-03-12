@@ -1,6 +1,6 @@
 # league-analytics
-Automated Google Sheets dashboard tracking ranked performance 
-for any Support League of Legends player.
+Automated Google Sheets dashboard tracking ranked performance for any Support League of Legends player.
+![Dashboard Preview](screenshot.png)
 
 ## Features
 ⚠️ Designed specifically for Support role players
