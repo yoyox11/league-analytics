@@ -21,5 +21,6 @@ Google Sheets / Google Apps Script / Riot Games API
 3. Enter player Riot ID and Tagline in cells A2/B2
 4. Click the MAJ button
 
-## Template
-[Google Sheets Template](https://docs.google.com/spreadsheets/d/1mYV7ocROIoeHmPXs1nXiyTJh86LbLAkJekbzT1h9YK4/edit?usp=sharing)
+## Links
+- [Google Sheets Template](https://docs.google.com/spreadsheets/d/1mYV7ocROIoeHmPXs1nXiyTJh86LbLAkJekbzT1h9YK4/edit?usp=sharing)
+- [Tableau Public Dashboard](https://public.tableau.com/app/profile/yohann.aubry/viz/LoLSupportPerformanceDashboard/Tableaudebord1?publish=yes)
